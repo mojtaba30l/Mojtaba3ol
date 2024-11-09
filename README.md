@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Mojtaba3ol
-- 👀 I’m interested in Quran & Piano 
-- 🌱 I’m currently learning AI 
+- 👋 Hi, I’m @Mojtaba30l
+- 👨🏻‍💻 Python Developer
